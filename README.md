@@ -45,13 +45,14 @@ The Movie Recommendation System is a Python-based application that helps users d
 
 ## 📂 Project Structure
 
-.
-├── main.py # Main application file
-├── data # Data directory containing movie datasets
-│ ├── tmdb_5000_movies.csv # Movies dataset
-│ ├── tmdb_5000_credits.csv # Credits dataset
-├── GUI.png # Screenshot of the GUI
-└── README.md # Project README file
+
+- ─ main.py # Main application file
+- ─ GUI.png # Screenshot of the GUI
+- ─ README.md # Project README file
+
+## 📊 Dataset
+
+The movie datasets used in this project can be found at [TMDB Movie Metadata on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 # 🔮 Future Improvements
 
